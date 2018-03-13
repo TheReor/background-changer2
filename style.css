@@ -1,0 +1,10 @@
+.style-section {
+    display: inline-block;
+}
+
+section {
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 50px;
+}
